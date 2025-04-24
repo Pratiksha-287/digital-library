@@ -1,0 +1,13 @@
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\adapter\BookAdapter.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\commons\CommonAdapter.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\controller\BookController.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\DigitalLibraryApplication.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\entities\BookInputEntity.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\entities\BookOutputEntity.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\exceptions\ResourceNotFoundException.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\mappers\input\BookInputMapper.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\mappers\output\BookOutputMapper.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\model\BookModel.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\repository\BookRepository.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\repository\jpa\BookJPARepository.java
+E:\digital-library\digital-library\src\main\java\com\example\digital_library\service\BookService.java

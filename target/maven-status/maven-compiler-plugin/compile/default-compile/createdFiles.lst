@@ -1,0 +1,16 @@
+com\example\digital_library\service\BookService.class
+com\example\digital_library\model\BookModel.class
+com\example\digital_library\mappers\output\BookOutputMapper.class
+com\example\digital_library\repository\BookRepository.class
+com\example\digital_library\entities\BookInputEntity$BookInputEntityBuilder.class
+com\example\digital_library\entities\BookOutputEntity$BookOutputEntityBuilder.class
+com\example\digital_library\mappers\input\BookInputMapper.class
+com\example\digital_library\model\BookModel$BookModelBuilder.class
+com\example\digital_library\entities\BookInputEntity.class
+com\example\digital_library\exceptions\ResourceNotFoundException.class
+com\example\digital_library\DigitalLibraryApplication.class
+com\example\digital_library\adapter\BookAdapter.class
+com\example\digital_library\repository\jpa\BookJPARepository.class
+com\example\digital_library\commons\CommonAdapter.class
+com\example\digital_library\controller\BookController.class
+com\example\digital_library\entities\BookOutputEntity.class
